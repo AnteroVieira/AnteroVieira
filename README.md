@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Antero
 
-<!--
-**AnteroVieira/AnteroVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focado em Qualidade de Software (QA)
 
-Here are some ideas to get you started:
+💻 Experiência com automação de testes web utilizando Selenium, Java e JUnit  
+🔍 Conhecimento em testes manuais, validação de APIs e boas práticas de QA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- Java
+- Selenium WebDriver
+- JUnit 5
+- Maven
+- Postman (API Testing)
+- Git e GitHub
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 functional-test-automation  
+Projeto de automação de testes funcionais web utilizando Selenium e boas práticas de organização.
+
+🚀 Em evolução:
+- Testes de API com Postman  
+- Integração com CI/CD (GitHub Actions)  
