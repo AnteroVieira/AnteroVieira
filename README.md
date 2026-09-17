@@ -78,18 +78,6 @@ Possuo sólida experiência em desenvolvimento web, automação de testes com fe
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnteroVieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnteroVieira&layout=compact&theme=radical" alt="Linguagens mais utilizadas"/>
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="left">
